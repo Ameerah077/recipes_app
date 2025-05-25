@@ -24,7 +24,7 @@ A Flutter app that lets users explore, like, and manage recipes — all built to
 
 | Home | Upload | Upload Dialog |
 |:--:|:--:|:--:|
-| ![](assets/screenshots/home.png) | ![](assets/screenshots/upload.png) | ![](assets/screenshots/upload_dialog.png) |
+| ![](assets/screenshots/home.png) | ![](assets/screenshots/upload.png) | ![](assets/screenshots/dialog.png) |
 
 | Profile |
 |:--:|
