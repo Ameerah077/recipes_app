@@ -1,7 +1,7 @@
 
 # Flutter Recipes App 🍽️
 
-A Flutter app that lets users explore, like, and manage recipes — all built to match a Figma design and powered by BLoC for state management.
+A Flutter app that lets users explore, like, and manage recipes — powered by BLoC for state management.
 
 ---
 
